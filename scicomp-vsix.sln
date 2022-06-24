@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intinc-vsix", "scicomp-vsix\intinc-vsix.csproj", "{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "intinc-vsix.Test", "scicomp-vsix.Test\intinc-vsix.Test.csproj", "{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Debug|x86.ActiveCfg = Debug|x86
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Debug|x86.Build.0 = Debug|x86
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Release|x86.ActiveCfg = Release|x86
+		{6A0181C2-ECD5-4B3C-A9BC-E21EF8C73A2B}.Release|x86.Build.0 = Release|x86
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Release|x86.ActiveCfg = Release|Any CPU
+		{1ECA1A8D-1A01-4EEB-A537-A5AC2C31570E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B0F4DA0-4F49-4AD8-A40E-DFA9C48A25A1}
+	EndGlobalSection
+EndGlobal
